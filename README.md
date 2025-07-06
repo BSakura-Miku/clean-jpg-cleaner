@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner/stargazers">
+    <img src="https://img.shields.io/github/stars/BSakura-Miku/clean-jpg-cleaner?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/BSakura-Miku/clean-jpg-cleaner" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/language-shell-green.svg" alt="Language">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
+</p>
+
+---
 # 🧹 clean-jpg-cleaner
 
 一个适用于 **macOS** 的 Shell 脚本，用于清理与其他同名主文件重复的 `.jpg/.jpeg` 文件。支持交互操作、Dry-run 模拟、安全删除到废纸篓、日志记录、并发加速等功能。
